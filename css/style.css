@@ -1,0 +1,35 @@
+body{
+    background: url("../images/gymbg.jpg")
+    no-repeat center center fixed;
+    background-size: cover;
+    opacity: 0.75;
+}
+
+h1{
+    font-family: 'Calistoga', cursive;
+    color:black;
+}
+
+i{
+    color:rgb(193,5,5);
+    font-size: 2em;
+
+}
+
+div{
+    text-align: center;
+    border: 20px;
+    margin: auto;
+    padding: 10px;
+    background-color: white;
+    width:50%;
+    border-radius: 20px;
+}
+
+button{
+    background-color: teal;
+    color:white;
+    border-radius: 20px;
+    font-size: 20px;
+}
+
